@@ -5,6 +5,7 @@ Using freely available info from: https://attack.mitre.org/, Sigma rules, Sysmon
 If successful, a simple scan tool can be also developed based on this list that will check systems if they are protected and/or  possibly compromised like Loki IoC scanner.
 
 Genral info:
+
 https://attack.mitre.org/techniques/T1112/
 
 https://github.com/SigmaHQ/sigma/tree/master/rules/windows/registry
