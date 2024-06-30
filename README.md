@@ -6,6 +6,7 @@ If successful, a simple scan tool can be also developed based on this list that 
 
 Genral info:
 https://attack.mitre.org/techniques/T1112/
+
 https://github.com/SigmaHQ/sigma/tree/master/rules/windows/registry
 
 
