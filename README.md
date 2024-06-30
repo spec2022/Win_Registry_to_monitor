@@ -75,3 +75,8 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders (Folders to start when user logs on)
 HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs (ists DLLs to be loaded into every process that loads user32.dll)
+
+## Boot
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\BootExecute (Contains commands to be executed during system boot.)
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\BootShell
