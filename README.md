@@ -42,6 +42,8 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SecurityManager
 
 # Defender:
 
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender
+
 ## Real-time protection
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\real-time protection
