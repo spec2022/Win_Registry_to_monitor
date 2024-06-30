@@ -99,4 +99,8 @@ HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor\AutoRun
 HKEY_CURRENT_USER\Software\Microsoft\Command Processor\AutoRun
 
 (https://devblogs.microsoft.com/oldnewthing/20071121-00/?p=24433)
+
+## WMI Filters: 
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\WBEM\CIMOM (https://learn.microsoft.com/en-us/windows/win32/wmisdk/registry-keys-for-controlling-provider-security-)
  
