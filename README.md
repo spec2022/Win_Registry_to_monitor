@@ -20,3 +20,5 @@ HKCU\Software\Microsoft\Windows Script\Settings\AmsiEnable (https://ppn.snovvcra
 ## UAC
 
 ## SmartScreen
+
+## AppLocker
