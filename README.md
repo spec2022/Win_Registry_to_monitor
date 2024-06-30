@@ -10,6 +10,8 @@ https://attack.mitre.org/techniques/T1112/
 
 https://github.com/SigmaHQ/sigma/tree/master/rules/windows/registry
 
+https://github.com/Defenders-Guide/TheDefendersGuide/blob/main/Windows/Windows%20Registry/Highly%20Targeted%20Registry%20Keys.csv
+
 
 ## AMSI
 
