@@ -22,3 +22,7 @@ HKCU\Software\Microsoft\Windows Script\Settings\AmsiEnable (https://ppn.snovvcra
 ## SmartScreen
 
 ## AppLocker
+
+## ATP
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Advanced Threat Protection
