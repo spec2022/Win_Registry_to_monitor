@@ -35,6 +35,11 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Antimalware
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Security Center
 
+## Microsoft Security manager: 
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SecurityManager
+
+
 # Defender:
 
 ## Real-time protection
