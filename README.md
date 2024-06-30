@@ -89,3 +89,14 @@ HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCac
 ## IFEO:
 
 HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options (https://securityblueteam.medium.com/utilizing-image-file-execution-options-ifeo-for-stealthy-persistence-331bc972554e)
+
+## User logon: 
+HKEY_LOCAL_MACHINE\Software\Microsoft\Active Setup\Installed Components  (Executes commands the first time a user logs in.)
+
+## CMD pre-execution: 
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor\AutoRun
+HKEY_CURRENT_USER\Software\Microsoft\Command Processor\AutoRun
+
+(https://devblogs.microsoft.com/oldnewthing/20071121-00/?p=24433)
+ 
