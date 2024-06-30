@@ -56,3 +56,11 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Windows
 # Firewall:
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall
+
+## Device guard: 
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\DeviceGuard
+
+## DMA security: 
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\DmaSecurity
