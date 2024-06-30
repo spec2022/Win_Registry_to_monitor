@@ -27,6 +27,12 @@ HKCU\Software\Microsoft\Windows Script\Settings\AmsiEnable (https://ppn.snovvcra
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Advanced Threat Protection
 
+# Defender:
+
 ## Real-time protection
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\real-time protection
+
+## Exploit Guard
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard
