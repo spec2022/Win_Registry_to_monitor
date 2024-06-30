@@ -81,3 +81,7 @@ HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_
 
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\BootExecute (Contains commands to be executed during system boot.)
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\BootShell
+
+## Scheduled tasks: 
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\
