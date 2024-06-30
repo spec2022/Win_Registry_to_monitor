@@ -31,6 +31,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Advanced Threat 
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Antimalware
 
+## Microsoft Security center: 
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Security Center
+
 # Defender:
 
 ## Real-time protection
